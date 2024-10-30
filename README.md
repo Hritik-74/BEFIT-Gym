@@ -19,7 +19,7 @@ This project is a dynamic and visually appealing gym website, designed to promot
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Hritik-74/befit-gym-website.git
+   git clone https://github.com/Hritik-74/BEFIT-Gym.git
 2.  Open index.html in your browser to view the website.
 
 ## Acknowledgements
