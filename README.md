@@ -22,13 +22,5 @@ This project is a dynamic and visually appealing gym website, designed to promot
    git clone https://github.com/Hritik-74/befit-gym-website.git
 2.  Open index.html in your browser to view the website.
 
-## Screesnshots
-   ![Home Page](images/Home%20page.png)
-   ![Features Section](images/Features%20section.png)
-![Pricing Section](images/Pricing%20section.png)
-![Trainers Section](images/Trainers%20section.png)
-![About Section](images/About%20page.png)
-![Blog Section](images/Blog%20page.png)
-
 ## Acknowledgements
  This project uses the Swiper.js library and Font Awesome icons.
