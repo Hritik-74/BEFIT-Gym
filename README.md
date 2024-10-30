@@ -25,4 +25,4 @@ This project is a dynamic and visually appealing gym website, designed to promot
 ## Screesnshots
 
 ## Acknowledgements
-    This project uses the Swiper.js library and Font Awesome icons.
+ This project uses the Swiper.js library and Font Awesome icons.
