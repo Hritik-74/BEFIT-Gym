@@ -23,6 +23,12 @@ This project is a dynamic and visually appealing gym website, designed to promot
 2.  Open index.html in your browser to view the website.
 
 ## Screesnshots
+   ![Home Page](images/Homepage.png)
+   ![Features Section](images/Featurespage.png)
+   ![Pricing Section](images/Pricingpage.png)
+   ![Trainers Section](images/Trainerspage.png)
+   ![About Section](images/Aboutpage.png)
+   ![Blog Section](images/Blogpage.png)
 
 ## Acknowledgements
  This project uses the Swiper.js library and Font Awesome icons.
